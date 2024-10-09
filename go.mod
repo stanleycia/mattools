@@ -1,4 +1,4 @@
-module mattools
+module github.com/stanleycia/mattools
 
 go 1.22
 
