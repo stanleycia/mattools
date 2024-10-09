@@ -1,4 +1,4 @@
-package github.com/stanleycia/mattools
+package mattools
 
 import (
     "gonum.org/v1/gonum/mat"
